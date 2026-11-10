@@ -1,7 +1,7 @@
 import LOGO from "./assets/logo.png";
 export { LOGO };
 
-export const WA="5500000000000"; // troque pelo WhatsApp da loja (55 + DDD + número)
+export const WA=" +55(85)99416-0109"; // troque pelo WhatsApp da loja (55 + DDD + número)
 export const brl=n=>n.toLocaleString('pt-BR',{style:'currency',currency:'BRL'});
 export const CATS=['Todos','Vestidos','Blusas','Calças','Conjuntos','Acessórios'];
 export const P=[
